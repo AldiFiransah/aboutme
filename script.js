@@ -3,7 +3,7 @@ const profil = {
   nama: "Aldi Firansah Saputra",
   peran: "",                  // dikosongkan, isi jika ingin ditampilkan
   lokasi: "",                 // isi kota jika mau, contoh: "Bandung"
-  kicker: "Photofolio // ALDI FIRANSAH SAPUTRA",
+  kicker: "PORTOFOLIO // ALDI FIRANSAH SAPUTRA",
   foto: "foto.jpg",           // nama file foto di folder yang sama (kosong = siluet bawaan)
   quote: "",                  // dikosongkan, isi jika ingin menampilkan kutipan
   bio: "Saya Aldi, saya seorang desainer dan programer yang masih pemula serta saya seorang konten kreator.",
