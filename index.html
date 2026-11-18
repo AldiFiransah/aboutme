@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Portofolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <canvas id="stars"></canvas>
+
+  <nav class="nav">
+    <a href="#home" class="active">Home</a>
+    <a href="#tentang">Tentang</a>
+    <a href="#proyek">Proyek</a>
+    <a href="#sosial">Sosial</a>
+  </nav>
+
+  <header id="home" class="hero">
+    <div class="hero-text reveal">
+      <small class="kicker" id="kicker"></small>
+      <h1 class="ransom" id="heroName"></h1>
+      <h2 id="heroRole"></h2>
+      <p id="heroBio"></p>
+      <a href="#proyek" class="btn">Lihat Proyek →</a>
+    </div>
+    <div class="badge-wrap reveal">
+      <div class="badge" id="tilt">
+        <div class="badge-top">PORTOFOLIO</div>
+        <div class="badge-avatar" id="badgeAvatar"></div>
+        <div class="badge-name" id="badgeName"></div>
+        <div class="badge-role" id="badgeRole"></div>
+      </div>
+    </div>
+  </header>
+
+  <section id="tentang" class="section">
+    <h2 class="title ransom reveal">Tentang</h2>
+    <div class="card reveal" id="card"></div>
+  </section>
+
+  <section id="proyek" class="section">
+    <h2 class="title ransom reveal">Proyek</h2>
+    <div class="grid" id="proyekGrid"></div>
+  </section>
+
+  <section id="sosial" class="section">
+    <h2 class="title ransom reveal">Sosial</h2>
+    <div class="slots" id="slots"></div>
+  </section>
+
+  <footer class="foot">© <span id="year"></span> · <span id="footName"></span></footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
