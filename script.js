@@ -1,8 +1,8 @@
-/* ========== 1. DATA PORTOFOLIO (GANTI DENGAN DATAMU) ========== */
+/* ========== 1. DATA PORTOFOLIO (isi datamu) ========== */
 const profil = {
   nama: "Hamster Larp",
-  peran: "",                  // dikosongkan, isi jika ingin ditampilkan
-  lokasi: "",                 // isi kota jika mau, contoh: "Bandung"
+  peran: "Mahasiswa",                  //provesi saat ini
+  lokasi: "Lampung ",                 // ganti aja asal kota kalian
   kicker: "PORTOFOLIO // Hamster Larp",
   foto: "foto.jpg",           // nama file foto di folder yang sama (kosong = siluet bawaan)
   quote: "",                  // dikosongkan, isi jika ingin menampilkan kutipan
