@@ -9,9 +9,9 @@ const profil = {
   bio: "Saya Hamster, saya seorang desainer dan programer yang masih pemula serta saya seorang konten kreator.",
   minat: ["Desain", "Programming", "Konten Kreator", "Belajar hal baru"],
   statistik: [
-    { label: "Skill", val: 45 },
-    { label: "Kreatifitas", val: 76 },
-    { label: "Ambisi", val: 62 },
+    { label: "Skill", val: 23 },
+    { label: "Kreatifitas", val: 63 },
+    { label: "Ambisi", val: 42 },
     { label: "Kepintaran", val: 62 }
   ],
   proyek: [
