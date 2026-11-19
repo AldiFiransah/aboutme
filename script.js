@@ -1,12 +1,12 @@
 /* ========== 1. DATA PORTOFOLIO (GANTI DENGAN DATAMU) ========== */
 const profil = {
-  nama: "Aldi Firansah Saputra",
+  nama: "Hamster Larp",
   peran: "",                  // dikosongkan, isi jika ingin ditampilkan
   lokasi: "",                 // isi kota jika mau, contoh: "Bandung"
-  kicker: "PORTOFOLIO // ALDI FIRANSAH SAPUTRA",
+  kicker: "PORTOFOLIO // Hamster Larp",
   foto: "foto.jpg",           // nama file foto di folder yang sama (kosong = siluet bawaan)
   quote: "",                  // dikosongkan, isi jika ingin menampilkan kutipan
-  bio: "Saya Aldi, saya seorang desainer dan programer yang masih pemula serta saya seorang konten kreator.",
+  bio: "Saya Hamster, saya seorang desainer dan programer yang masih pemula serta saya seorang konten kreator.",
   minat: ["Desain", "Programming", "Konten Kreator", "Belajar hal baru"],
   statistik: [
     { label: "Skill", val: 45 },
